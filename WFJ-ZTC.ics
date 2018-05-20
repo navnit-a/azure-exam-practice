@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//OJP/Thales//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTAMP:20180520T145011Z
+UID:20180520T145011Z-P88428@liv1-ojpapp106.nreproduction.local
+CATEGORIES:Travel
+DTSTART:20180523T064500
+DTEND:20180523T072900
+SUMMARY:Journey Details: Watford Junction (WFJ) to Tottenham Court Road (
+ ZTC)
+DESCRIPTION:Journey Details: Watford Junction (WFJ) to London Euston (EUS
+ )\, dep 06:45\, arr 07:07\nTrain Company: West Midlands Trains\nMode of 
+ Transport: Train\n\nJourney Details: London Euston (EUS) to Tottenham Co
+ urt Road (ZTC)\, dep 07:22\, arr 07:29\nMode of Transport: Underground\n
+ \n
+LOCATION:Watford Junction Rail Station\, UK
+ORGANIZER;CN=National Rail Enquiries:MAILTO:NREServiceDesk@smart421.com
+END:VEVENT
+END:VCALENDAR
